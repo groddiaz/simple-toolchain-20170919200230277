@@ -4,8 +4,8 @@ var formidable = require('formidable');
 
 var natural_language_classifier = watson.natural_language_classifier({
   url: "https://gateway.watsonplatform.net/natural-language-classifier/api",
-  username: 'xxxx',   /*NLC Username here*/
-  password: 'xxxx',   /*NLC Username here*/
+  username: 'c6682898-796d-4e2a-828e-22a04b1e75b3',   /*NLC Username here*/
+  password: 'JaqtBDtD7SwW',   /*NLC Username here*/
   version: 'v1'
 });
 
